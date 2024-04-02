@@ -35,11 +35,11 @@ Least Performers: The Brie Carre Pizza records the lowest revenue, quantities, a
 <h1>Skills Utilized:</h1> Microsoft Power BI, Microsoft Power Query, Data Visualization, Data Cleaning.
 
 <h1>First Dashboard:</h1>
-![Screenshot 2023-10-14 181208](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/07bc03de-dd3e-4437-8a63-ac9f109c741c)
+
+![Screenshot 2023-10-14 181208](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/ad484748-af5a-4e2d-8ac5-107af418e051)
 
 
 <h1>Second Dashboard</h1>
-
 
 ![Pizza sales analysis 2](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/2d2b672e-55cb-4f1d-b6bd-0c4e579932cb)
 
