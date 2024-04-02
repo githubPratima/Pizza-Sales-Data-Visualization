@@ -10,7 +10,7 @@ Data Cleansing: Employing Power Query Editor for thorough data refinement.
 Data Processing: Leveraging DAX for effective data manipulation.
 Data Visualization: Creating insightful visual representations.
 
-<h1Some of Key Performance Indicators</h1>
+<h1>Some of Key Performance Indicators</h1>
 
 Total Revenue: This metric offers a comprehensive overview of the financial performance by reflecting the total monetary value generated from pizza sales.
 
@@ -32,9 +32,14 @@ Size Impact: Large-sized pizzas significantly contribute to overall sales.
 Best Sellers: The Thai Chicken Pizza generates the highest revenue, while the Classic Deluxe Pizza leads in quantities and total orders.
 Least Performers: The Brie Carre Pizza records the lowest revenue, quantities, and total orders.
 
+<h1>Skills Utilized:</h1> Microsoft Power BI, Microsoft Power Query, Data Visualization, Data Cleaning.
+
+<h1>First Dashboard:</h1>
+![Screenshot 2023-10-14 181208](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/07bc03de-dd3e-4437-8a63-ac9f109c741c)
 
 
-<h1>Skills Utilized:</h1>h1> Microsoft Power BI, Microsoft Power Query, Data Visualization, Data Cleaning.
+<h1>Second Dashboard</h1>
 
 
+![Pizza sales analysis 2](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/2d2b672e-55cb-4f1d-b6bd-0c4e579932cb)
 
