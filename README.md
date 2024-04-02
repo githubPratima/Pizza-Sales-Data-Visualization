@@ -22,6 +22,16 @@ Total Orders: This KPI represents the overall volume of customer transactions by
 
 Average Pizzas per Order: Calculated by dividing the total quantity of pizzas sold by the count of distinct order IDs, this KPI offers insights into the average number of pizzas ordered per transaction, offering a nuanced understanding of customer preferences.
 
+
+<h1>First Dashboard:</h1>
+
+![Screenshot 2023-10-14 181208](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/ad484748-af5a-4e2d-8ac5-107af418e051)
+
+
+<h1>Second Dashboard</h1>
+
+![Pizza sales analysis 2](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/2d2b672e-55cb-4f1d-b6bd-0c4e579932cb)
+
 <h1>Key Insights</h1>
 
 Seasonal Trends: Pizza sales peak during summer months but decline during winter (December, January, February).
@@ -33,13 +43,3 @@ Best Sellers: The Thai Chicken Pizza generates the highest revenue, while the Cl
 Least Performers: The Brie Carre Pizza records the lowest revenue, quantities, and total orders.
 
 <h1>Skills Utilized:</h1> Microsoft Power BI, Microsoft Power Query, Data Visualization, Data Cleaning.
-
-<h1>First Dashboard:</h1>
-
-![Screenshot 2023-10-14 181208](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/ad484748-af5a-4e2d-8ac5-107af418e051)
-
-
-<h1>Second Dashboard</h1>
-
-![Pizza sales analysis 2](https://github.com/githubPratima/Pizza-Sales-Data-Visualization/assets/98135375/2d2b672e-55cb-4f1d-b6bd-0c4e579932cb)
-
