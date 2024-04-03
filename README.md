@@ -12,15 +12,15 @@ Data Visualization: Creating insightful visual representations.
 
 <h1>Some of Key Performance Indicators</h1>
 
-Total Revenue: This metric offers a comprehensive overview of the financial performance by reflecting the total monetary value generated from pizza sales.
+**Total Revenue:** This metric offers a comprehensive overview of the financial performance by reflecting the total monetary value generated from pizza sales.
 
-Average Order Value: This indicator highlights the average monetary worth of each customer transaction, providing insights into customer spending behavior.
+**Average Order Value:** This indicator highlights the average monetary worth of each customer transaction, providing insights into customer spending behavior.
 
-Total Pizzas Sold: Tracking the total quantity of pizzas sold helps understand the demand for different pizza offerings, offering insights into product popularity.
+**Total Pizzas Sold:** Tracking the total quantity of pizzas sold helps understand the demand for different pizza offerings, offering insights into product popularity.
 
-Total Orders: This KPI represents the overall volume of customer transactions by counting unique order IDs, providing a measure of overall activity and engagement with the pizza sales platform.
+**Total Orders:** This KPI represents the overall volume of customer transactions by counting unique order IDs, providing a measure of overall activity and engagement with the pizza sales platform.
 
-Average Pizzas per Order: Calculated by dividing the total quantity of pizzas sold by the count of distinct order IDs, this KPI offers insights into the average number of pizzas ordered per transaction, offering a nuanced understanding of customer preferences.
+**Average Pizzas per Order:** Calculated by dividing the total quantity of pizzas sold by the count of distinct order IDs, this KPI offers insights into the average number of pizzas ordered per transaction, offering a nuanced understanding of customer preferences.
 
 
 <h1>First Dashboard:</h1>
@@ -34,12 +34,12 @@ Average Pizzas per Order: Calculated by dividing the total quantity of pizzas so
 
 <h1>Key Insights</h1>
 
-Seasonal Trends: Pizza sales peak during summer months but decline during winter (December, January, February).
-Peak Order Days: Sundays, Mondays, and Tuesdays experience the highest order volumes.
-Busiest Months: July and January stand out as the months with the highest number of orders.
-Popular Category: The Classic category dominates in both sales and total orders.
-Size Impact: Large-sized pizzas significantly contribute to overall sales.
-Best Sellers: The Thai Chicken Pizza generates the highest revenue, while the Classic Deluxe Pizza leads in quantities and total orders.
-Least Performers: The Brie Carre Pizza records the lowest revenue, quantities, and total orders.
+**Seasonal Trends:** Pizza sales peak during summer months but decline during winter (December, January, February).
+**Peak Order Days:** Sundays, Mondays, and Tuesdays experience the highest order volumes.
+**Busiest Months:** July and January stand out as the months with the highest number of orders.
+**Popular Category:** The Classic category dominates in both sales and total orders.
+**Size Impact:** Large-sized pizzas significantly contribute to overall sales.
+**Best Sellers:** The Thai Chicken Pizza generates the highest revenue, while the Classic Deluxe Pizza leads in quantities and total orders.
+**Least Performers:** The Brie Carre Pizza records the lowest revenue, quantities, and total orders.
 
 <h1>Skills Utilized:</h1> Microsoft Power BI, Microsoft Power Query, Data Visualization, Data Cleaning.
