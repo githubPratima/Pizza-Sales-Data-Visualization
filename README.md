@@ -35,11 +35,17 @@ Data Visualization: Creating insightful visual representations.
 <h1>Key Insights</h1>
 
 **Seasonal Trends:** Pizza sales peak during summer months but decline during winter (December, January, February).
+
 **Peak Order Days:** Sundays, Mondays, and Tuesdays experience the highest order volumes.
+
 **Busiest Months:** July and January stand out as the months with the highest number of orders.
+
 **Popular Category:** The Classic category dominates in both sales and total orders.
+
 **Size Impact:** Large-sized pizzas significantly contribute to overall sales.
+
 **Best Sellers:** The Thai Chicken Pizza generates the highest revenue, while the Classic Deluxe Pizza leads in quantities and total orders.
+
 **Least Performers:** The Brie Carre Pizza records the lowest revenue, quantities, and total orders.
 
 <h1>Skills Utilized:</h1> Microsoft Power BI, Microsoft Power Query, Data Visualization, Data Cleaning.
